@@ -1,0 +1,7 @@
+requests
+ beautifulsoup4
+lxml 
+flask
+gunicorn
+werobot
+cryptography
